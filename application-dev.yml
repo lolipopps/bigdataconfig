@@ -7,7 +7,7 @@ jasypt:
 spring:
   redis:
     password: hu1234tai
-    host: http://119.3.32.219
+    host: 119.3.32.219
   # zipkin
   zipkin:
     enabled: true
