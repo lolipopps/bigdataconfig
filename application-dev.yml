@@ -6,8 +6,8 @@ jasypt:
 # Spring 相关
 spring:
   redis:
-    password:
-    host: hu1234tai
+    password: hu1234tai
+    host: http://119.3.32.219
   # zipkin
   zipkin:
     enabled: true
